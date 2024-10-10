@@ -1,6 +1,8 @@
 # TOP
 Two-stage polytomous logistic regression Use TwoStageModel (TOP) With (In) R Software
 
+https://www.youtube.com/watch?v=RMNqWe_lV9k
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
